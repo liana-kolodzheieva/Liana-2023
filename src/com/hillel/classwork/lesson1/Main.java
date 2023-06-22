@@ -1,4 +1,4 @@
-package com.hillel.Klasswork.lesson1;
+package com.hillel.classwork.lesson1;
 
 public class Main {
 
